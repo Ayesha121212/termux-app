@@ -1,4 +1,4 @@
-     .global blob
+ c76cec186af4df7b1020cd1471ea50dfcb25afba    .global blob
      .global blob_size
      .section .rodata
  blob:
